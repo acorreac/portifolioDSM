@@ -6,7 +6,7 @@
 <p>◻️ <a href="#sobre-mim">Sobre mim</a></p>
 <p>◻️ <a href="#meus-projetos">Meus Projetos</a></p>
 <div class="semestre1">
-<ul><a href="#spicecorp">1º Semestre • 2/2022 • SpiceCorp</a>
+<ul><a href="#spicebank">1º Semestre • 2/2022 • SpiceCorp</a>
   <details>
     <summary>Detalhes</summary>
     <ul>◻️ <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a></ul>
@@ -19,7 +19,7 @@
 </ul>
 </div>
 <div class="semestre2">
-<ul><a href="#sabia">2º Semestre • 1/2023 • Sabiá</a>
+<ul><a href="#equipe-sabia">2º Semestre • 1/2023 • Sabiá</a>
   <details>
     <summary>Detalhes</summary>
     <ul>◻️ <a href="#tecnologias-utilizadas-">Tecnologias Utilizadas</a></ul>
@@ -33,7 +33,7 @@
 </div>
 </div>
 <div class="semestre3">
-<ul><a href="#beelieve">3º Semestre • 2/2023 • Beelieve</a>
+<ul><a href="#equipe-beelieve">3º Semestre • 2/2023 • Beelieve</a>
   <details>
     <summary>Detalhes</summary>
     <ul>◻️ <a href="#tecnologias-utilizadas--">Tecnologias Utilizadas</a></ul>
@@ -57,11 +57,15 @@ Ao contribuir no projeto "Sistema Web para visualização de informações sobre
 
 Atualmente sou estagiária de Desenvolvimento de Software na Tecsus - Tecnologia para Sustentabilidad, iniciei na área de sistemas embarcados, desenvolvendo a programação do dispositivo ESP32 para a comunicação com o dispositivo de medição de água, gás ou energia, e comunicação com o servidor via protocolo UDP. No momento estou atuando como backend, especificamente desenvolvendo testes nos endpoints do sistema web da empresa.</p>
 
+<h2>Contatos</h2>
+<p align="center">• <a href="https://www.linkedin.com/in/alinecorrea/">LinkedIn</a> • <a href="https://github.com/acorreac">GitHub</a> •</p>
+
 <hr>
 <div class="semestre1">
 <h2>Meus Projetos</h2>
 <h4>1º Semestre • 2/2022 • <a href="https://github.com/https-github-com-spicecorpdev/spicebank/tree/versao6">Repositório Github</a></h4>
 
+<h3>Equipe Spicecorp</h3>
 <h3>Spicebank</h3>
 
 <p align="justify">Parceiro Acadêmico: Faculdade de Tecnologia de São José dos Campos</p>
@@ -154,7 +158,8 @@ Atualmente sou estagiária de Desenvolvimento de Software na Tecsus - Tecnologia
 <hr>
 <div class="semestre2">
 <h4>2º Semestre • 1/2023 • <a href="https://github.com/Equipe-Beelieve/API-2DSM-2023/tree/main">Repositório Github</a></h4>
-
+  
+<h3>Equipe Sabiá</h3>
 <h3>Sistema de Inspeção de Entrada para o Controle de Recebimento de Grãos em uma Agroindústria</h3>
 
 <p align="justify">Parceiro Acadêmico: <a>Jaia Software</a></p>
@@ -357,7 +362,3 @@ Atualmente sou estagiária de Desenvolvimento de Software na Tecsus - Tecnologia
 </div>
 <br>
 <p><a href="#sumário">Voltar para o início</a></p>
-
-<h2>Contatos</h2>
-* [GIT](https://github.com/acorreac)
-* [LinkedIn](https://www.linkedin.com/in/alinecorrea/)
