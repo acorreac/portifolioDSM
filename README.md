@@ -6,7 +6,7 @@
 <p>◻️ <a href="#sobre-mim">Sobre mim</a></p>
 <p>◻️ <a href="#meus-projetos">Meus Projetos</a></p>
 <div class="semestre1">
-<ul><a href="#spicecorp.png">1º Semestre • 2/2022 • SpiceCorp</a>
+<ul><a href="#spicecorp">1º Semestre • 2/2022 • SpiceCorp</a>
   <details>
     <summary>Detalhes</summary>
     <ul>◻️ <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a></ul>
@@ -48,8 +48,8 @@
 <hr>
 
 <h2>Sobre mim</h2>
-<h1>Portfólio das APIs - Aline Correa</h1>
-<p align="center"><img src="https://github.com/acorreac/portifolioDSM/aline-correa.jpeg" width="20%"></p>
+<h1>Portifólio das APIs - Aline Correa</h1>
+<p align="center"><img src="https://github.com/acorreac/portifolioDSM/blob/main/aline-correa.jpeg" width="20%"></p>
 
 <p align="justify">Graduada em Automação Industrial pela Faculdade de Tecnologia Itaquera Profº Miguel Reale (FATEC), formada em Eletrônica pela ETEC Gildo Marçal Bezerra Brandão e regularmente matriculada no 3º semestre do curso tecnólogo em Desenvolvimento de Software Multiplataforma pela Faculdade de Tecnologia de São José dos Campos (FATEC).
 
@@ -58,15 +58,15 @@ Ao contribuir no projeto "Sistema Web para visualização de informações sobre
 Atualmente sou estagiária de Desenvolvimento de Software na Tecsus - Tecnologia para Sustentabilidad, iniciei na área de sistemas embarcados, desenvolvendo a programação do dispositivo ESP32 para a comunicação com o dispositivo de medição de água, gás ou energia, e comunicação com o servidor via protocolo UDP. No momento estou atuando como backend, especificamente desenvolvendo testes nos endpoints do sistema web da empresa.</p>
 
 <hr>
-
-## Meus Projetos
+<div class="semestre1">
+<h2>Meus Projetos</h2>
 <h4>1º Semestre • 2/2022 • <a href="https://github.com/https-github-com-spicecorpdev/spicebank/tree/versao6">Repositório Github</a></h4>
 
 <h3>Spicebank</h3>
 
 <p align="justify">Parceiro Acadêmico: Faculdade de Tecnologia de São José dos Campos</p>
 
-<p align="center"><img src="https://github.com/acorreac/portifolioDSM/spicecorp.png" widht="20%"></img>
+<p align="center"><img src="https://github.com/acorreac/portifolioDSM/blob/main/spicecorp.png" widht="20%"></img>
 
 <p align="justify">O objetivo do projeto foi criar um sistema para gerenciamento de transações em um banco digital fictício, visando monitorar e controlar operações bancárias de um banco digital, reduzindo as interações presenciais.</p>
 <br>
@@ -158,7 +158,7 @@ Atualmente sou estagiária de Desenvolvimento de Software na Tecsus - Tecnologia
 <h3>Sistema de Inspeção de Entrada para o Controle de Recebimento de Grãos em uma Agroindústria</h3>
 
 <p align="justify">Parceiro Acadêmico: <a>Jaia Software</a></p>
-<p align="center"><img src="https://github.com/acorreac/portifolioDSM/sabia.png" widht="20%"></img>
+<p align="center"><img src="https://github.com/acorreac/portifolioDSM/blob/main/sabia.png" widht="20%"></img>
 
 <p align="justify">Consistiu no desenvolvimento de um sistema que fosse possível inspecionar a entrada para o controle de recebimento de grãos em uma agroindústria, através do processo de inserção de produto, fornecedor, pedido e nota fiscal do pedido no sistema, para posteriormente ser ppossível realizar a análise quantitativa e qualitativa do produto recebido, bem como seu laudo após tais inspeções do produto.</p>
 <br>
@@ -261,7 +261,7 @@ Atualmente sou estagiária de Desenvolvimento de Software na Tecsus - Tecnologia
 <h3>Software de Gestão de Times de Projetos Complexos</h3>
 <h4>3º Semestre • 2/2023 • <a href="https://github.com/Equipe-Beelieve/Equipe-API-3DSM-Beelieve/tree/main">Repositório Github</a></h4>
 <p align="justify">Parceiro Acadêmico: <a>SIATT</a></p>
-<p align="center"><img src="https://github.com/acorreac/portifolioDSM/beelieve.png" widht="20%"></img>
+<p align="center"><img src="https://github.com/acorreac/portifolioDSM/blob/main/beelieve.png" widht="20%"></img>
 <p align="justify">O desafio proposto era desenvolver um "Software para Gestão de Times de Projetos Complexos" que automatize todo o trabalho de gerenciamento de equipes integradas. Esse software estaria acessível por meio de um portal na intranet da empresa, facilitando o acompanhamento e a gestão de projetos complexos que estão em desenvolvimento..</p>
 <br>
 <h3>Tecnologias Utilizadas  </h3>
@@ -283,7 +283,7 @@ Atualmente sou estagiária de Desenvolvimento de Software na Tecsus - Tecnologia
   <li>Criação dos casos de testes do sistema.</li>
 </ul>
 <br>
-<h3>Lições Aprendidas </h3>
+<h3>Lições Aprendidas</h3>
 <p align="justify">Tive o meu primeiro contato com Spring Boot, e com a linguagem Java, na qual pude ter melhor entendimento sobre SOLID e padrões de código, micro-serviços, niveis de maturidade e restfull.</p>
 <h3>Hard Skills  </h3>
 <details>
@@ -358,6 +358,6 @@ Atualmente sou estagiária de Desenvolvimento de Software na Tecsus - Tecnologia
 <br>
 <p><a href="#sumário">Voltar para o início</a></p>
 
-## Contatos
+<h2>Contatos</h2>
 * [GIT](https://github.com/acorreac)
 * [LinkedIn](https://www.linkedin.com/in/alinecorrea/)
