@@ -19,7 +19,7 @@
 </ul>
 </div>
 <div class="semestre2">
-<ul><a href="#equipe-sabia">2º Semestre • 1/2023 • Sabiá</a>
+<ul><a href="#equipe-sabiá">2º Semestre • 1/2023 • Sabiá</a>
   <details>
     <summary>Detalhes</summary>
     <ul>◻️ <a href="#tecnologias-utilizadas-">Tecnologias Utilizadas</a></ul>
@@ -263,10 +263,15 @@ Atualmente sou estagiária de Desenvolvimento de Software na Tecsus - Tecnologia
 <p><a href="#sumário">Voltar para o início</a></p>
 <hr>
 <div class="semestre3">
+
+<h3>Equipe Beelieve</h3>
 <h3>Software de Gestão de Times de Projetos Complexos</h3>
 <h4>3º Semestre • 2/2023 • <a href="https://github.com/Equipe-Beelieve/Equipe-API-3DSM-Beelieve/tree/main">Repositório Github</a></h4>
+  
 <p align="justify">Parceiro Acadêmico: <a>SIATT</a></p>
+
 <p align="center"><img src="https://github.com/acorreac/portifolioDSM/blob/main/beelieve.png" widht="20%"></img>
+
 <p align="justify">O desafio proposto era desenvolver um "Software para Gestão de Times de Projetos Complexos" que automatize todo o trabalho de gerenciamento de equipes integradas. Esse software estaria acessível por meio de um portal na intranet da empresa, facilitando o acompanhamento e a gestão de projetos complexos que estão em desenvolvimento..</p>
 <br>
 <h3>Tecnologias Utilizadas  </h3>
