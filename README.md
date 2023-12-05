@@ -1,4 +1,4 @@
-<h1>Portifólio das Aprendizagens de Projeto Integrado (APIs), apresentado à Faculdade de Tecnologia de São José dos Campos</h1>
+<h1 align="center">Portifólio das Aprendizagens de Projeto Integrado (APIs), apresentado à Faculdade de Tecnologia de São José dos Campos</h1>
 <p align="justify">Este repositório tem como objetivo apresentar meus projetos e desenvolvimentos no curso de Desenvolvimento de Software Multiplataforma</p>
 
 <hr>
@@ -47,7 +47,7 @@
 <hr>
 
 <h2>Sobre mim</h2>
-<h1>Portifólio das APIs - Aline Correa</h1>
+
 <p align="center"><img src="https://github.com/acorreac/portifolioDSM/blob/main/aline-correa.jpeg" width="20%"></p>
 
 <p align="justify">Graduada em Automação Industrial pela Faculdade de Tecnologia Itaquera Profº Miguel Reale (FATEC), formada em Eletrônica pela ETEC Gildo Marçal Bezerra Brandão e regularmente matriculada no 3º semestre do curso tecnólogo em Desenvolvimento de Software Multiplataforma pela Faculdade de Tecnologia de São José dos Campos (FATEC).
