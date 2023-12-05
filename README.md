@@ -31,7 +31,6 @@
   </details>
 </ul>
 </div>
-</div>
 <div class="semestre3">
 <ul><a href="#equipe-beelieve">3º Semestre • 2/2023 • Beelieve</a>
   <details>
